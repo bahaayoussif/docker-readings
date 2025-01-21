@@ -149,10 +149,10 @@ If you have any questions or need help:
 
 ## 🗺️ Roadmap
 
-- [ ] Advanced orchestration topics
-- [ ] Cloud deployment guides
-- [ ] Security best practices
-- [ ] Performance optimization techniques
-- [ ] Real-world case studies
+- Advanced orchestration topics
+- Cloud deployment guides
+- Security best practices
+- Performance optimization techniques
+- Real-world case studies
 
 Happy learning! 🚀
